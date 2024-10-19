@@ -1,0 +1,11 @@
+<?xml-stylesheet type="text/css" href="style.css"?>
+<klu>
+  <student>
+    <name>kishore</name>
+    <id>1</id>
+  </student>
+  <student>
+    <name>viswa</name>
+    <id>2</id>
+  </student>
+</klu>

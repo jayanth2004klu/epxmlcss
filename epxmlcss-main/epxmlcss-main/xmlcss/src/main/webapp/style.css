@@ -1,0 +1,18 @@
+klu{
+	background:yellow;
+	
+}
+name{
+	background:red;
+	color:blue;
+	font-style:italic;
+}
+id{
+	background:orange;
+	color:pink;
+	font-style:bold;
+	
+}
+name,id{
+	display:block;
+}
